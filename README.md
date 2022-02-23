@@ -10,6 +10,11 @@
 🤔 **寻求帮助:**
 
 📫 **如何联系我：**...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHUNLU-1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **ckopecky/ckopecky** 是一个 ✨ _special_ ✨ 存储库，因为它的 `README.md`（此文件）出现在您的 GitHub 个人资料中。
  
