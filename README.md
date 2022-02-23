@@ -6,7 +6,13 @@
 
 🌱 **Currently Studying:** 
 
++ Computer Vision Based on 3D Object Detection
++ Robot development based on ROS
+
 📫 **How to contact me：**...
+
+- E-mail:hengguo12@gmail.com
+- Telegram:[SHUNLU-1](https://t.me/SHUNLU1)
 
 
 <h3 align="left">Languages and Tools:</h3>
