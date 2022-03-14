@@ -3,6 +3,7 @@
 
 <img  src = "https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80" />
 
+<img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
 
 ### 🌱 **Currently Studying:** 
 
@@ -13,6 +14,7 @@
 
 - E-mail:hengguo12@gmail.com
 - Telegram:[SHUNLU-1](https://t.me/SHUNLU1)
+
 
 
  <h3 align="left">😄 Languages and Tools:</h3>
