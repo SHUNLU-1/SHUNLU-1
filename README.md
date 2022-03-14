@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHUNLU,Welcome To My GitHub Page </h1>
-<h2 align="center">A passionate Computer Vision developer from China</h2>
+<h2 align="center">Life is as splendid as summer flowers, death is as quiet and beautiful as autumn leaves</h2>
 
 <img  src = "https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80" />
 
